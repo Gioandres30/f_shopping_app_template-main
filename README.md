@@ -7,5 +7,5 @@ El siguiente es un demo de la interfaz a la que se debe llegar (funcionalidades 
 ![shoppingApp](https://user-images.githubusercontent.com/4458129/173839525-218900ed-9bcd-4f6f-9158-0b02dd9d7707.gif)
 
 Solución:
-
-https://github.com/MisionTIC4b/f_shopping_app
+Link del video 
+https://youtu.be/xpI3NHdvTrs
